@@ -69,7 +69,7 @@
     margin-top: 100px; /* Add some top margin for better appearance */
 }
 </style>
-<h1 style="text-align:center;color:darkblue;font-family:'Segoe UI';font-weight:bold">Lost And Found</h1>
+<h1 style="text-align:center;color:darkblue;font-family:'Segoe UI';font-weight:bold">Task Rabbit</h1>
 
 
     <div class="container">
